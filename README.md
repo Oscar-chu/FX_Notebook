@@ -7,6 +7,15 @@ The first structural model introduced is the
 
 The authors found out that the predicting power of the three structural model are no better than that of the random walk model. 
 
+Two random walk models will be considered in this project. The first one is the random walk model without drift. Mathematically, we have
+```math
+S_{t+1} = S_{t}+\varepsilon
+```
+where $$S_{t+1}$$ is the spot rate at time $$t+1$$ and $$\varepsilon$$ is a white noise with zero mean. The second model that is considered is the random walk model with drift. 
+```math
+S_{t+1} = \alpha + S_{t} + \varepsilon
+```
+where $$\alpha$$ is a time independent constant. 
 # 3. Data Source
 
 
