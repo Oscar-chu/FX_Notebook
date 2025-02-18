@@ -1,4 +1,8 @@
+>[!Note]
+>This is an ongoing project. 
+
 # 1. Introduction
+This is a project of studying and forecasting the spot exchange rate. This project studies the USD/JPY pair with data from FRED (Federal Reserve Economic Data). 
 
 # 2. Models
 ## 2.1 The Benchmark -- Random Walk
